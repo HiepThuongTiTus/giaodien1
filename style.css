@@ -1,0 +1,38 @@
+body {
+    position: relative;
+  }
+h1{
+    background-color: rgb(15, 77, 56);
+    padding: 10px;
+    color: white;
+    padding-left: 80px;
+}
+  ul.nav-pills {
+    top: 100px;
+    position: fixed;
+  }
+
+  div.col-8 div {
+    margin-top: 70px;
+    height: 100%;
+    background-color: coral;
+  }
+#section1
+{
+  margin-top: 15px;
+}
+  .title
+  {
+    padding: 100px;
+    margin-left: 50px;
+    margin-top: 100px;
+  }
+  .titla
+  {
+    padding: 10px;
+  }
+  h2{
+    margin-top: 50px;
+    font-size: 35px;
+    text-align: center;
+  }
